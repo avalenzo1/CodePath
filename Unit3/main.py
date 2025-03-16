@@ -5,6 +5,8 @@
 # Every opening tag has a corresponding closing tag of the same type.
 # Tags are closed in the correct order.
 
+# CREDIT: 
+
 def is_valid_post_format(posts):
     # ()[]{}
     # Tokens to look out for
